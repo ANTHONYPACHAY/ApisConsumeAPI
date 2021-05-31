@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ApisConsume</string>
+    <string name="tittle_a1">Revistas UTEQ</string>
+    <string name="jour_a1">Jorunal:</string>
+    <string name="helptxt_a1">En este buscador usted puede utilizar el buscador para realizar búsquedas en la pagina de RevistasUTEQ, mediante el identificador del journal.</string>
+    <string name="prov_a1">Proveedor:</string>
+    <string-array name="provop_a1">
+        <item>Volley</item>
+        <item>Retrofit</item>
+    </string-array>
+    <string name="btnsearch_a1">Buscar</string>
+    <string name="results_a2">Resultados de búsqueda:</string>
+    <string name="back_a2">Regresar</string>
+</resources>
